@@ -6,3 +6,5 @@ This project offers a practical, step‑by‑step guide to running large languag
 With this approach, you gain full control over your LLM environment without relying on external APIs.
 
 **System requirements:** A multi‑core CPU and a GPU are essential for local execution. For NVIDIA GPUs, install CUDA along with the appropriate Torch packages to ensure compatibility.
+
+Reach out to me at [brij_joe@yahoo.com](mailto:brij_joe@yahoo.com) if you need technical know-how to build enterprise grade multi-agent system.
